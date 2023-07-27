@@ -1,1 +1,1 @@
-Learning QT Design Studio and use of QML to dynamically animate a 2.0 Sport Watch
+Learning QT Design Studio : a simple car kilometer counter and a 2.0 Sport Watch
